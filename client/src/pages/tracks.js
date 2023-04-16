@@ -6,7 +6,7 @@ import { Layout } from '../components';
  * We display a grid of tracks fetched with useQuery with the TRACKS query
  */
 const Tracks = () => {
-  return <Layout grid> </Layout>;
+  return <Layout grid>ello</Layout>;
 };
 
 export default Tracks;
